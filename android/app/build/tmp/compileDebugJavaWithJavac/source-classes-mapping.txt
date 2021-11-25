@@ -1,0 +1,14 @@
+com/firebasechatdemo/MainApplication.java
+ com.firebasechatdemo.MainApplication
+ com.firebasechatdemo.MainApplication$1
+com/firebasechatdemo/BuildConfig.java
+ com.firebasechatdemo.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/firebasechatdemo/MainActivity.java
+ com.firebasechatdemo.MainActivity
+com/firebasechatdemo/ReactNativeFlipper.java
+ com.firebasechatdemo.ReactNativeFlipper
+ com.firebasechatdemo.ReactNativeFlipper$1
+ com.firebasechatdemo.ReactNativeFlipper$2
+ com.firebasechatdemo.ReactNativeFlipper$2$1

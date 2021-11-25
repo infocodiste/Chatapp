@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseChatDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseChatDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirebaseChatDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirebaseChatDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1185420463/FirebaseChatDemo.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1185420463/FirebaseChatDemo.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-776587605/FirebaseChatDemo.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-776587605/FirebaseChatDemo.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1704877457/FirebaseChatDemo.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1704877457/FirebaseChatDemo.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2058518310/FirebaseChatDemo.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-2058518310/FirebaseChatDemo.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/517535917/FirebaseChatDemo.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/517535917/FirebaseChatDemo.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/94431372/FirebaseChatDemo.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/94431372/FirebaseChatDemo.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2034266608/FirebaseChatDemo.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2034266608/FirebaseChatDemo.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1205603829/FirebaseChatDemo.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1205603829/FirebaseChatDemo.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2078108749/FirebaseChatDemo.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2078108749/FirebaseChatDemo.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
